@@ -1,3 +1,7 @@
+Proyecto realizado en el rango del 1-11-2025 hasta el 22-1-2026
+
+[GitHub: Ch4mbi](https://github.com/Ch4mbi)
+
 # Vulnerabilidades en dispositivos móviles 
 
 Los dispositivos móviles ,al igual que en otros dispositivos electrónicos que se usan a diario,  son igualmente susceptibles a diferentes amenazas, resultando que un gran porcentaje de  los smartphones son objetivos de ciberataques hoy en día. Estos ataques suceden por el  mero desconocimiento de los riesgos o la falta de importancia que se le da a las  vulnerabilidades,siendo algunas de estas:   
@@ -160,6 +164,9 @@ de riesgos empresarial, estableciendo la política, la supervisión y la asignac
 (Tecnología, 2024) 
 
 Una buena gobernanza de la seguridad permite reaccionar ante vulnerabilidades ,ataques, y  anticiparse a ellos y gestionarlos.Esto garantiza que los dispositivos móviles se gestionen  de manera coherente con los objetivos de seguridad y que se alinee con los objetivos de la  organización y con las mejores prácticas. Se debe aplicar globalmente en toda la  organización, sin limitarse al ámbito técnico y se debe establecer una estructura clara de  roles y se debe crear un comité de seguridad que permita la toma de decisiones efectivas Para que la gobernanza de la seguridad móvil y la gestión de dispositivos sea  efectiva(usando mdm) , debe integrarse en la estrategia empresarial que se haya decidido  seguir. Esto implica que las decisiones de seguridad de dispositivos móviles no se limiten  solo al ámbito técnico, sino que también formen parte de la planificación estratégica de la  organización. En este modelo de gobernanza, el responsable actúa como puente entre los  equipos técnicos responsables de la seguridad y la dirección de la empresa. Esto implica  que dicho puente traduce los riesgos de seguridad en impactos en el negocio(Estabilidad,  continuidad, integridad,reputación, pérdidas económicas,...), permitiendo priorizar riesgos en  base a su impacto potencial. También, el uso en diferentes ámbitos de MDM dentro de la  gobernanza aporta visibilidad sobre la seguridad de diversos dispositivos, permitiendo a  diferentes sectores de la empresa tomar diferentes decisiones y mejorar los sistemas de  seguridad. Así, la gobernanza en la empresa deja de consistir en un conjunto de controles  aislados y pasa a ser un nuevo componente que se alinee con los objetivos o estrategias  empresariales. 
+
+[Ch4mbi](https://github.com/Ch4mbi)
+
 
 # Proyecto
 
@@ -560,3 +567,5 @@ Available at: https://www.tecnocosas.es/ciberseguridad-en-2025-como-proteger-tus
 Tecnología, I. N. d. E. y., 2024. El Marco de Seguridad Cibernética (CSF) 2.0 del NIST. [En  línea]  
 Available at: https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.spa.pdf [Último acceso: 12 1 2026]. 
 TemplarCiber, 2022. Guía para Crear una Matriz de Riesgo. [En línea]  Available at: https://www.templarciberseguridad.com/matriz_riesgo.html [Último acceso: 8 1 2026].
+
+[GitHub: Ch4mbi](https://github.com/Ch4mbi)
