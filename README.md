@@ -1,5 +1,6 @@
 # Seguridad en dispositivos IoT --  Pentesting en entorno controlado
 Proyecto universitario llevado a cabo entre 01/11/2025 - 22/1/2026
+
 [Autor: Ch4mbi](https://github.com/Ch4mbi)
 
 ## Descripción
